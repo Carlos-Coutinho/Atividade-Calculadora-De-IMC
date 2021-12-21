@@ -1,1 +1,1 @@
-# Atividade usando JavaScript, HTML E CSS. Calculadora de IMC
+# Atividade usando JavaScript, HTML E CSS. Calculadora de IMC.
